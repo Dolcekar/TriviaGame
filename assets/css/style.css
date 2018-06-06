@@ -1,0 +1,36 @@
+body{
+  margin: auto;
+  background-color: black;
+	background-image: url(../images/singularity.png);
+	background-repeat: no-repeat;
+	background-position: center;
+  text-align: center;
+  height: 600px;
+  padding-top: 5%;
+}
+.jumbotron{
+  padding: 30px 30px 30px 30px;
+  color: blanchedalmond;
+  background: rgb(192, 162, 162); /* This is for ie8 and below */
+   background: rgba(139, 115, 115, 0.5)
+}
+.btn{
+  background: rgb(192, 162, 162); /* This is for ie8 and below */
+  background: rgba(139, 115, 115, 0.5) 
+}
+#background{
+  margin: auto;
+  
+}
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+#music, #welcome {
+  display: none;
+}
